@@ -1,0 +1,1 @@
+https://nbviewer.org/github/rajuiit/Autism-Prediction-Fall-2021/blob/master/Autism_predictions.ipynb
